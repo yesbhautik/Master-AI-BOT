@@ -48,7 +48,7 @@ You can deploy your own bot or use our streamlined version: [Click Here](https:/
 
    ```bash
    sudo apt -y update
-   sudo apt -y install ca-certificates curl gnupg lsb-release docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin docker docker.io docker-compose python3 python3-pip
+   sudo apt -y install ca-certificates curl gnupg lsb-release docker-compose docker docker.io docker-compose python3 python3-pip apt-utils
    ```
 
 4. Clone the repository:

@@ -81,6 +81,15 @@ You can deploy your own bot or use our streamlined version: [Click Here](https:/
 
 1. Learn more about how we built ChatGPT from GPT-3: [Build ChatGPT from GPT-3](https://learnprompting.org/docs/applied_prompting/build_chatgpt)
 
+## Contributing 🤝
+Contributions are welcome! Please follow these steps to contribute to the project:
+
+1. Fork the repository🍴
+2. Create a new branch for your feature or bug fix 🌿
+3. Make your changes and commit them 💻
+4. Push your changes to your fork 🚀
+5. Create a pull request to the main repository 📥
+
 ## 🔥 Show Your Support | Make a Donation
 
 If you find this repository helpful, please show your support by giving it a ⭐! Your support means a lot to us and encourages us to contribute more to the open-source community.

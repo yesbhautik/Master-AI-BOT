@@ -68,10 +68,16 @@ You can deploy your own bot or use our streamlined version: [Click Here](https:/
    ```bash
    pip3 install -r requirements.txt
    ```
- 
-7. Edit the configuration file `config/config.yml` to set your tokens. You can also edit `config/config.env` if you're an advanced user.
+   
+7. Install dependencies:
 
-8. 🔥 Now, it's time to **run**:
+   ```bash
+   cp config/config-example.env config/config.env
+   cp config/config-example.yml config/config.yml
+   ```
+8. Edit the configuration file `config/config.yml` to set your tokens. You can also edit `config/config.env` if you're an advanced user.
+
+9. 🔥 Now, it's time to **run**:
 
     ```bash
     docker-compose --env-file config/config.env up --build -d

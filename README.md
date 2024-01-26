@@ -6,7 +6,7 @@
 
 Unleash the power of ChatGPT with our Telegram Bot! Say goodbye to the laggy experience of chat.openai.com, daily usage limits, and outdated web interfaces.
 
-You can deploy your own bot or use our streamlined version: [Click Here](https://t.me/Master_AI_YESBHAUTIK_BOT)
+You can deploy your own bot or use our streamlined version: [Click Here](https://t.me/MasterAiBotbyYesbhautik)
 
 ## Key Features
 

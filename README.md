@@ -100,10 +100,10 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 
 If you find this repository helpful, please show your support by giving it a ⭐! Your support means a lot to us and encourages us to contribute more to the open-source community.
 
-Additionally, if you'd like to offer financial support, you can do so via our donation link: [Make a Donation](https://go.yesbhautik.co.in/8i6wdu)
+Additionally, if you'd like to offer financial support, you can do so via our donation link: [Make a Donation](https://rzp.io/l/Contribute-to-YesbhautikX-USD)
 
 <br>
-<a href="https://go.yesbhautik.co.in/8i6wdu">
+<a href="https://rzp.io/l/Contribute-to-YesbhautikX-USD">
   <img src="https://www.pngall.com/wp-content/uploads/2016/05/PayPal-Donate-Button-Free-Download-PNG.png" alt="Donate" width="100">
 </a>
 

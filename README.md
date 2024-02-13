@@ -1,4 +1,4 @@
-# Master AI BOT: Fastest Telegram AI BOT. Voice Support. GPT-4. Unique Chat Modes
+# Master AI BOT: Fastest Telegram AI BOT. Voice Support. GPT-4 Turbo. Unique Chat Modes
 
 <p align="center">
   <img src="https://pub-f858c7e521464395920779af297fb1bd.r2.dev/Master-AI-BOT-GIT.gif" align="center" style="width: 100%; border-radius: 20px" />
@@ -13,7 +13,7 @@ You can deploy your own bot or use our streamlined version: [Click Here](https:/
 - Lightning-fast responses (typically within 3-5 seconds)
 - No request limits – chat as much as you want
 - Seamless message streaming (see the demo)
-- Powered by GPT-4
+- Powered by GPT-4 Turbo
 - Group chat support (/help_group_chat for instructions)
 - DALLE 2 integration (select 👩‍🎨 Artist mode for image generation)
 - Voice message recognition

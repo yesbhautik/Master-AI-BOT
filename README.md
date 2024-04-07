@@ -1,7 +1,7 @@
 # Master AI BOT: Fastest Telegram AI BOT. Voice Support. GPT-4 Turbo. Unique Chat Modes
 
 <p align="center">
-  <img src="https://pub-f858c7e521464395920779af297fb1bd.r2.dev/Master-AI-BOT-GIT.gif" align="center" style="width: 100%; border-radius: 20px" />
+  <img src="https://pub-f858c7e521464395920779af297fb1bd.r2.dev/Master.gif" align="center" style="width: 100%; border-radius: 20px" />
 </p>
 
 Unleash the power of ChatGPT with our Telegram Bot! Say goodbye to the laggy experience of chat.openai.com, daily usage limits, and outdated web interfaces.

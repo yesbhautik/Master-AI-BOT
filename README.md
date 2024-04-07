@@ -29,6 +29,10 @@ You can deploy your own bot or use our streamlined version: [Click Here](https:/
 
 ---
 
+## 🔴 Get LLMs official API at affordable price
+
+Give a ping on [Telegram](https://t.me/yesbhautik) | [WhatsApp](https://wa.me/+916353586391)
+
 ## Bot Commands
 
 - `/retry` – Regenerate the last response from the bot
